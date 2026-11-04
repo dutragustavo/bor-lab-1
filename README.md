@@ -72,3 +72,5 @@ blocks while draining a simulated mempool.
 The only third-party dependency is `github.com/spf13/cobra` for the command
 tree. Everything else is the standard library. `go.sum` is committed so builds
 are reproducible offline after the module cache is populated.
+
+// triage regression tracking: dashboard greps verdicts
